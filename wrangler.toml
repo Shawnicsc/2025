@@ -1,0 +1,3 @@
+name = "my-static-site"
+type = "javascript"
+site = { bucket = "./2025", entry-point = "workers-site" }
